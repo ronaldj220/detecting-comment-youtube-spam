@@ -1,4 +1,4 @@
-<p align="center">
+<p align="justify">
   <a href="https://stackshare.io/anhello/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
