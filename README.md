@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/github/issues/ronaldj220/detecting-comment-youtube-spam" alt="Ronald" />
   </a>
 </p>
+
 # Mendeteksi Komentar Youtube Spam
 
 ## Library yang dibutuhkan : 
