@@ -18,6 +18,8 @@
   pip install <nama_library>
 ```
 
+Untuk menjalankan kodingan tersebut bisa di _Google Colab_ atau _Anaconda_
+
 <p align="center">
   <a href="https://github.com/ronaldj220/detecting-comment-youtube-spam">
     <img src="https://img.shields.io/badge/FindMeOnGITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ronald" />
