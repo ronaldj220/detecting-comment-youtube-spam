@@ -1,4 +1,4 @@
-* [Choose an Open Source License](https://choosealicense.com)
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 <!-- [Click Me](https://github.com/ronaldj220/detecting-comment-youtube-spam) -->
 # Mendeteksi Komentar Youtube Spam
 
