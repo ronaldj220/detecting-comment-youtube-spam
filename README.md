@@ -1,6 +1,6 @@
 <p align="justify">
   <a href="https://github.com/ronaldj220/detecting-comment-youtube-spam">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+    Github<img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
 </p>
 <!-- [Click Me](https://github.com/ronaldj220/detecting-comment-youtube-spam) -->
