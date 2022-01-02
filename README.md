@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
+* [Choose an Open Source License](https://choosealicense.com)
 <!-- [Click Me](https://github.com/ronaldj220/detecting-comment-youtube-spam) -->
 # Mendeteksi Komentar Youtube Spam
 
