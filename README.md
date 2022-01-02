@@ -18,8 +18,8 @@
   pip install <nama_library>
 ```
 
-<p align="justify">
+<p align="center">
   <a href="https://github.com/ronaldj220/detecting-comment-youtube-spam">
-    <img src="https://img.shields.io/badge/FindMe-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ronald" />
+    <img src="https://img.shields.io/badge/FindMeOnGITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ronald" />
   </a>
 </p>
