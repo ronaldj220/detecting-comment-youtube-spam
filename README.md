@@ -1,4 +1,5 @@
-[Click Me](https://github.com/ronaldj220/detecting-comment-youtube-spam)
+[![Contributors][contributors-shield]][contributors-url]
+<!-- [Click Me](https://github.com/ronaldj220/detecting-comment-youtube-spam) -->
 # Mendeteksi Komentar Youtube Spam
 
 ## Library yang dibutuhkan : 
