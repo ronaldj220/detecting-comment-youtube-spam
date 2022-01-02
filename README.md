@@ -21,6 +21,5 @@
 <p align="center">
   <a href="https://github.com/ronaldj220/detecting-comment-youtube-spam">
     <img src="https://img.shields.io/badge/FindMeOnGITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ronald" />
-    <img src="https://img.shields.io/badge/ronaldj220-detecting--YT--comment--spam-yellowgreen"></>
   </a>
 </p>
