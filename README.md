@@ -1,6 +1,6 @@
 <p align="justify">
   <a href="https://github.com/ronaldj220/detecting-comment-youtube-spam">
-    <img src="https://img.shields.io/github/issues/ronaldj220/detecting-comment-youtube-spam" alt="Ronald" />
+    <img src="https://img.shields.io/github/Github/ronaldj220/detecting-comment-youtube-spam" alt="Ronald" />
   </a>
 </p>
 
