@@ -15,6 +15,6 @@ https://github.com/ronaldj220/detecting-comment-youtube-spam
 
 ## Cara Memasukkan Library tersebut :
 
-'''python
+'''bash
   pip install <nama_library>
 '''
