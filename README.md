@@ -19,6 +19,10 @@
   pip install <nama_library>
 ```
 
+## Dataset
+
+Dataset ini diambil dari <a href="https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection">Sini</a>
+
 Untuk menjalankan kodingan tersebut bisa di _Google Colab_ atau _Anaconda_
 
 <p align="center">
