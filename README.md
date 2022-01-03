@@ -4,13 +4,14 @@
 
 ---
 
-1. _CountVectorizer_
-2. _RandomForestClassifier_
-3. _confusion_matrix_
-4. _cross_val_score_
-5. _Pipeline_ dan _make_pipeline_
-6. _TF-IDFTransformer_
-7. _GridSearchCV_
+1. _Pandas_ 
+2. _CountVectorizer_
+3. _RandomForestClassifier_
+4. _confusion_matrix_
+5. _cross_val_score_
+6. _Pipeline_ dan _make_pipeline_
+7. _TF-IDFTransformer_
+8. _GridSearchCV_
 
 ## Cara Memasukkan Library tersebut :
 
